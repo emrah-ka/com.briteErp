@@ -36,5 +36,16 @@ public class LoginPage {
         loginButton.click();
     }
 
+    public void loginAsManager() {
+        username.sendKeys(ConfigurationReader.getProperty("username1"));
+        password.sendKeys(ConfigurationReader.getProperty("password1"));
+        loginButton.click();
+    }
+
+    public void loginAsUser() {
+        username.sendKeys(ConfigurationReader.getProperty("username2"));
+        password.sendKeys(ConfigurationReader.getProperty("password2"));
+        loginButton.click();
+    }
 
 }
