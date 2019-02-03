@@ -1,4 +1,4 @@
-package pages.configurationAccounting;
+package pages.configuration_accounting;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;

@@ -1,4 +1,4 @@
-package pages.configurationAccounting;
+package pages.configuration_accounting;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
