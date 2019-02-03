@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec33de10-f2d4-410b-9032-847d320d9324" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/configuration_accounting/CustomerCreditNotesPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/PrintCustomerCreditNoteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/CustomerCreditNoteTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/functional_tests/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/LoginPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Pages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Pages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/configuration_accounting/CustomerCreditNotesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/configuration_accounting/CustomerCreditNotesPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/functional_tests/PrintCustomerCreditNoteTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/BrowserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/BrowserUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/configuration_accounting/Taxes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/functional_tests/LoginPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/functional_tests/LoginPageTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/Pages.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/Pages.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/configuration_accounting/CustomerCreditNotesPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/configuration_accounting/CustomerCreditNotesPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/functional_tests/PrintCustomerCreditNoteTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/report.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,76 +24,32 @@
     <session id="-1564230093">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.2" value="2" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="6" />
+          <entry key="JAVA" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="712" />
+          <entry key="JAVA" value="1842" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/PrintCustomerCreditNoteTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/configuration_accounting/TaxesPage.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/CustomerCreditNoteTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/configuration_accounting/CustomerCreditNotesPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/configuration.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/utilities/ConfigurationReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,11 +60,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/utilities/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+            <state relative-caret-position="409">
+              <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/configuration_accounting/CustomerCreditNotesPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/utilities/BrowserUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="433">
+              <caret line="246" column="18" selection-start-line="246" selection-start-column="18" selection-end-line="246" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -133,17 +111,18 @@
         <option value="$PROJECT_DIR$/src/test/java/utilities/ConfigurationReader.java" />
         <option value="$PROJECT_DIR$/src/test/java/utilities/Driver.java" />
         <option value="$PROJECT_DIR$/src/test/java/utilities/ApplicationConstants.java" />
-        <option value="$PROJECT_DIR$/src/test/java/utilities/BrowserUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" />
         <option value="$PROJECT_DIR$/configuration.properties" />
         <option value="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/configuration_accounting/Taxes.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/configuration_accounting/TaxesPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/LoginPageTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/utilities/Pages.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/configuration_accounting/CustomerCreditNotesPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/PrintCustomerCreditNoteTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utilities/BrowserUtils.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/configuration_accounting/CustomerCreditNotesPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/CustomerCreditNoteTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" />
       </list>
     </option>
   </component>
@@ -180,7 +159,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="803" />
@@ -280,7 +259,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549127154689" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549221158768" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -299,8 +278,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.PrintCustomerCreditNoteTest.printFunctionTest">
-    <configuration name="LoginPageTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.CustomerCreditNoteTest">
+    <configuration name="CustomerCreditNoteTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.briteErp" />
       <extension name="coverage">
         <pattern>
@@ -309,14 +288,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.functional_tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.functional_tests.LoginPageTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.functional_tests.CustomerCreditNoteTest" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginPageTest.logInTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CustomerCreditNoteTest.cancelImportTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.briteErp" />
       <extension name="coverage">
         <pattern>
@@ -325,8 +304,44 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.functional_tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.functional_tests.LoginPageTest" />
-      <option name="METHOD_NAME" value="logInTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.functional_tests.CustomerCreditNoteTest" />
+      <option name="METHOD_NAME" value="cancelImportTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerCreditNoteTest.listOfCustomersDispayTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.briteErp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.functional_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.functional_tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.functional_tests.CustomerCreditNoteTest" />
+      <option name="METHOD_NAME" value="listOfCustomersDispayTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerCreditNoteTest.printFunctionTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.briteErp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.functional_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.functional_tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.functional_tests.CustomerCreditNoteTest" />
+      <option name="METHOD_NAME" value="printFunctionTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -352,54 +367,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintCustomerCreditNoteTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.briteErp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.functional_tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.functional_tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.functional_tests.PrintCustomerCreditNoteTest" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrintCustomerCreditNoteTest.printFunctionTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.briteErp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.functional_tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.functional_tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.functional_tests.PrintCustomerCreditNoteTest" />
-      <option name="METHOD_NAME" value="printFunctionTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="TestNG.LoginPageTest" />
-      <item itemvalue="TestNG.LoginPageTest.logInTest" />
+      <item itemvalue="TestNG.CustomerCreditNoteTest.printFunctionTest" />
       <item itemvalue="TestNG.LoginPageTest.positiveLogInTest" />
-      <item itemvalue="TestNG.PrintCustomerCreditNoteTest.printFunctionTest" />
-      <item itemvalue="TestNG.PrintCustomerCreditNoteTest" />
+      <item itemvalue="TestNG.CustomerCreditNoteTest.listOfCustomersDispayTest" />
+      <item itemvalue="TestNG.CustomerCreditNoteTest.cancelImportTest" />
+      <item itemvalue="TestNG.CustomerCreditNoteTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.PrintCustomerCreditNoteTest.printFunctionTest" />
-        <item itemvalue="TestNG.PrintCustomerCreditNoteTest" />
+        <item itemvalue="TestNG.CustomerCreditNoteTest" />
+        <item itemvalue="TestNG.CustomerCreditNoteTest.cancelImportTest" />
+        <item itemvalue="TestNG.CustomerCreditNoteTest.printFunctionTest" />
+        <item itemvalue="TestNG.CustomerCreditNoteTest.listOfCustomersDispayTest" />
         <item itemvalue="TestNG.LoginPageTest.positiveLogInTest" />
-        <item itemvalue="TestNG.LoginPageTest" />
-        <item itemvalue="TestNG.LoginPageTest.logInTest" />
       </list>
     </recent_temporary>
   </component>
@@ -417,42 +398,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PrintCustomerCreditNoteTest_printFunctionTest - 2019.02.01 at 17h 54m 35s.xml">
-      <configuration name="PrintCustomerCreditNoteTest.printFunctionTest" configurationId="TestNG" />
+    <history-entry file="CustomerCreditNoteTest_printFunctionTest - 2019.02.03 at 11h 58m 46s.xml">
+      <configuration name="CustomerCreditNoteTest.printFunctionTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PrintCustomerCreditNoteTest_printFunctionTest - 2019.02.01 at 17h 56m 01s.xml">
-      <configuration name="PrintCustomerCreditNoteTest.printFunctionTest" configurationId="TestNG" />
+    <history-entry file="CustomerCreditNoteTest_printFunctionTest - 2019.02.03 at 12h 00m 11s.xml">
+      <configuration name="CustomerCreditNoteTest.printFunctionTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PrintCustomerCreditNoteTest_printFunctionTest - 2019.02.01 at 17h 58m 44s.xml">
-      <configuration name="PrintCustomerCreditNoteTest.printFunctionTest" configurationId="TestNG" />
+    <history-entry file="CustomerCreditNoteTest_printFunctionTest - 2019.02.03 at 12h 29m 18s.xml">
+      <configuration name="CustomerCreditNoteTest.printFunctionTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PrintCustomerCreditNoteTest_printFunctionTest - 2019.02.01 at 18h 01m 14s.xml">
-      <configuration name="PrintCustomerCreditNoteTest.printFunctionTest" configurationId="TestNG" />
+    <history-entry file="CustomerCreditNoteTest_printFunctionTest - 2019.02.03 at 12h 33m 16s.xml">
+      <configuration name="CustomerCreditNoteTest.printFunctionTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PrintCustomerCreditNoteTest - 2019.02.01 at 18h 02m 28s.xml">
-      <configuration name="PrintCustomerCreditNoteTest" configurationId="TestNG" />
+    <history-entry file="CustomerCreditNoteTest_printFunctionTest - 2019.02.03 at 12h 45m 08s.xml">
+      <configuration name="CustomerCreditNoteTest.printFunctionTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PrintCustomerCreditNoteTest - 2019.02.01 at 19h 19m 56s.xml">
-      <configuration name="PrintCustomerCreditNoteTest" configurationId="TestNG" />
+    <history-entry file="CustomerCreditNoteTest_printFunctionTest - 2019.02.03 at 12h 47m 09s.xml">
+      <configuration name="CustomerCreditNoteTest.printFunctionTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginPageTest_positiveLogInTest - 2019.02.01 at 19h 20m 59s.xml">
-      <configuration name="LoginPageTest.positiveLogInTest" configurationId="TestNG" />
+    <history-entry file="CustomerCreditNoteTest_cancelImportTest - 2019.02.03 at 12h 57m 05s.xml">
+      <configuration name="CustomerCreditNoteTest.cancelImportTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PrintCustomerCreditNoteTest_printFunctionTest - 2019.02.02 at 11h 52m 07s.xml">
-      <configuration name="PrintCustomerCreditNoteTest.printFunctionTest" configurationId="TestNG" />
+    <history-entry file="CustomerCreditNoteTest_cancelImportTest - 2019.02.03 at 13h 06m 22s.xml">
+      <configuration name="CustomerCreditNoteTest.cancelImportTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PrintCustomerCreditNoteTest - 2019.02.02 at 11h 53m 54s.xml">
-      <configuration name="PrintCustomerCreditNoteTest" configurationId="TestNG" />
+    <history-entry file="CustomerCreditNoteTest - 2019.02.03 at 14h 04m 57s.xml">
+      <configuration name="CustomerCreditNoteTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PrintCustomerCreditNoteTest_printFunctionTest - 2019.02.02 at 11h 59m 55s.xml">
-      <configuration name="PrintCustomerCreditNoteTest.printFunctionTest" configurationId="TestNG" />
+    <history-entry file="CustomerCreditNoteTest - 2019.02.03 at 14h 08m 38s.xml">
+      <configuration name="CustomerCreditNoteTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="803" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27682403" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28397712" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -461,12 +442,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21656977" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.002919708" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39884394" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32808024" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3270073" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32994187" />
@@ -509,10 +490,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/BrowserUtils.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/configuration_accounting/TaxesPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2448">
-          <caret line="111" column="55" lean-forward="true" selection-start-line="111" selection-start-column="55" selection-end-line="111" selection-end-column="55" />
+        <state relative-caret-position="255">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -526,10 +510,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/configuration_accounting/TaxesPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Pages.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="465">
+          <caret line="31" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="16" column="65" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -553,30 +547,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/BrowserUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="246" column="18" selection-start-line="246" selection-start-column="18" selection-end-line="246" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/utilities/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="65" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Pages.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="409">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -585,18 +566,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/configuration_accounting/CustomerCreditNotesPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+        <state relative-caret-position="510">
+          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/PrintCustomerCreditNoteTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/CustomerCreditNoteTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
