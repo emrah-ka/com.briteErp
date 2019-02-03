@@ -2,63 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec33de10-f2d4-410b-9032-847d320d9324" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/configurationAccounting/BankAccounts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/configurationAccounting/FiscalPositions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/configurationAccounting/Journals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/configurationAccounting/TaxesPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/smoke_tests/TaxCreateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/com.briteErp.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/configurationAccounting/BankAccounts.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/configurationAccounting/FiscalPositions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/configurationAccounting/Journals.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/configurationAccounting/TaxesPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/smoke_tests/CheckTitleTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190202070027.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190202070145.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190202070329.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190202075311.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190202085336.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190202085847.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190202095158.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190202095758.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsJournalsTitleTest20190202101454.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsJournalsTitleTest20190202101712.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsJournalsTitleTest20190202105301.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsfiscalPositionsTitleTest20190202105639.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202070704.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202071236.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202071326.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202071440.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202071651.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202071810.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202071930.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202072045.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202072659.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202072901.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202073015.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202073121.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202073457.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202074149.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202075432.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202080246.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202080406.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202080502.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202081334.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202081446.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202083025.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202084139.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/functional_tests/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/LoginPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/smoke_tests/CheckTitleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/smoke_tests/CheckTitleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Pages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Pages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/configuration_accounting/Taxes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/functional_tests/LoginPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/functional_tests/LoginPageTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/Pages.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/Pages.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -71,82 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tests/smoke_tests/CheckTitleTest.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tests/smoke_tests/TaxCreateTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/configurationAccounting/Journals.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/configurationAccounting/BankAccounts.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/configuration.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="64" column="19" lean-forward="true" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/utilities/TestBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="986">
+              <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -181,7 +53,6 @@
         <option value="$PROJECT_DIR$/src/test/java/pages/configuration_accounting/TaxesPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/BankAccounts.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/TaxesPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/utilities/Pages.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/Journals.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/FiscalPositions.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/smoke_tests/TaxesCreateTest.java" />
@@ -190,6 +61,7 @@
         <option value="$PROJECT_DIR$/src/test/java/tests/smoke_tests/TaxCreateTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/smoke_tests/CheckTitleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utilities/Pages.java" />
       </list>
     </option>
   </component>
@@ -323,7 +195,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549228825054" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549229156677" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -489,7 +361,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="308" y="-1080" width="1348" height="1044" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23602484" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -500,12 +371,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38638857" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38638857" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33333334" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33260155" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32850242" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32930845" />
@@ -551,13 +422,6 @@
     <entry file="file://$PROJECT_DIR$/com.briteErp.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/LoginPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -575,13 +439,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Pages.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
@@ -608,30 +465,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/configurationAccounting/Journals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/configurationAccounting/BankAccounts.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="64" column="19" lean-forward="true" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -699,6 +536,40 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Pages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="64" column="19" lean-forward="true" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/configurationAccounting/Journals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
         </state>
       </provider>
     </entry>
