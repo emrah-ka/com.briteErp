@@ -3,16 +3,17 @@ package utilities;
 import pages.*;
 import pages.configurationAccounting.BankAccounts;
 import pages.configurationAccounting.FiscalPositions;
+import pages.configuration_accounting.CustomerCreditNotesPage;
 import pages.configurationAccounting.Journals;
 import pages.configurationAccounting.TaxesPage;
-
+import pages.LoginPage;
 public class Pages {
     private LoginPage loginPage;
     private TaxesPage taxesPage;
     private BankAccounts bankAccounts;
     private FiscalPositions fiscalPositions;
     private Journals journals;
-
+    private CustomerCreditNotesPage creditNotesPage;
 
 
 
@@ -51,5 +52,11 @@ public class Pages {
         return journals;
     }
 
+    public CustomerCreditNotesPage creditNotesPage(){
+        if(creditNotesPage==null){
+            creditNotesPage = new CustomerCreditNotesPage();
+        }
+        return creditNotesPage;
+    }
 
 }

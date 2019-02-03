@@ -26,7 +26,7 @@ public class TestBase {
     public void setupMethod() {
         driver = Driver.getDriver();
         pages = new Pages();
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
         driver.get(ConfigurationReader.getProperty("url"));
         softAssertion = new SoftAssert();
     }
