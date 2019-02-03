@@ -2,11 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec33de10-f2d4-410b-9032-847d320d9324" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/LoginPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/configurationAccounting/BankAccounts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/configurationAccounting/FiscalPositions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/configurationAccounting/Journals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/configurationAccounting/TaxesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/smoke_tests/TaxCreateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/com.briteErp.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/configurationAccounting/BankAccounts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/configurationAccounting/FiscalPositions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/configurationAccounting/Journals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pages/configurationAccounting/TaxesPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/tests/smoke_tests/CheckTitleTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190202070027.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190202070145.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190202070329.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190202075311.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190202085336.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190202085847.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190202095158.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190202095758.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsJournalsTitleTest20190202101454.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsJournalsTitleTest20190202101712.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsJournalsTitleTest20190202105301.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotsfiscalPositionsTitleTest20190202105639.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202070704.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202071236.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202071326.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202071440.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202071651.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202071810.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202071930.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202072045.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202072659.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202072901.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202073015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202073121.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202073457.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202074149.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202075432.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202080246.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202080406.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202080502.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202081334.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202081446.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202083025.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202084139.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/functional_tests/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/LoginPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/smoke_tests/CheckTitleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/smoke_tests/CheckTitleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Pages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Pages.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/configuration_accounting/Taxes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/functional_tests/LoginPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/functional_tests/LoginPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/Pages.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/Pages.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,23 +70,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Pages.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/smoke_tests/CheckTitleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="43" column="32" lean-forward="true" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+            <state relative-caret-position="714">
+              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -43,10 +83,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/LoginPageTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/smoke_tests/TaxCreateTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="352">
+              <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/configurationAccounting/Journals.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/configurationAccounting/BankAccounts.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -57,17 +121,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/configuration.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="42" lean-forward="true" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+            <state relative-caret-position="153">
+              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/utilities/TestBase.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1207">
-              <caret line="71" column="79" lean-forward="true" selection-start-line="71" selection-start-column="79" selection-end-line="71" selection-end-column="79" />
+            <state relative-caret-position="408">
+              <caret line="64" column="19" lean-forward="true" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,10 +140,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/configuration_accounting/TaxesPage.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/utilities/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            <state relative-caret-position="119">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,13 +172,24 @@
         <option value="$PROJECT_DIR$/src/test/java/utilities/ApplicationConstants.java" />
         <option value="$PROJECT_DIR$/src/test/java/utilities/BrowserUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" />
-        <option value="$PROJECT_DIR$/configuration.properties" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/LoginPageTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/configuration_accounting/Taxes.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/LoginPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/configuration_accounting/FiscalPositions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/configuration_accounting/BankAccounts.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/configuration_accounting/Journals.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/configuration_accounting/TaxesPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/BankAccounts.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/TaxesPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/utilities/Pages.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/Journals.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/FiscalPositions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/smoke_tests/TaxesCreateTest.java" />
+        <option value="$PROJECT_DIR$/configuration.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/configurationAccounting/TaxesPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/smoke_tests/TaxCreateTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/smoke_tests/CheckTitleTest.java" />
       </list>
     </option>
   </component>
@@ -151,11 +226,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="754" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="308" />
+    <option name="y" value="-1080" />
+    <option name="width" value="1348" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -163,8 +238,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,7 +278,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="configuration_accounting" type="462c0819:PsiDirectoryNode" />
+              <item name="configurationAccounting" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
@@ -230,16 +303,28 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="smoke_tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="utilities" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548982789015" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549228825054" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -258,34 +343,52 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.LoginPageTest.positiveLogInTest">
-    <configuration name="LoginPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.CheckTitleTest">
+    <configuration name="CheckTitleTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.briteErp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.functional_tests.*" />
+          <option name="PATTERN" value="tests.smoke_tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.functional_tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.functional_tests.LoginPageTest" />
+      <option name="PACKAGE_NAME" value="tests.smoke_tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.smoke_tests.CheckTitleTest" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginPageTest.logInTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CheckTitleTest.BankAccountsTitleTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.briteErp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.functional_tests.*" />
+          <option name="PATTERN" value="tests.smoke_tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.functional_tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.functional_tests.LoginPageTest" />
-      <option name="METHOD_NAME" value="logInTest" />
+      <option name="PACKAGE_NAME" value="tests.smoke_tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.smoke_tests.CheckTitleTest" />
+      <option name="METHOD_NAME" value="BankAccountsTitleTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckTitleTest.taxesTitleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.briteErp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.smoke_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.smoke_tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.smoke_tests.CheckTitleTest" />
+      <option name="METHOD_NAME" value="taxesTitleTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -311,11 +414,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TaxCreateTest.createATax" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.briteErp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.smoke_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.smoke_tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.smoke_tests.TaxCreateTest" />
+      <option name="METHOD_NAME" value="createATax" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.CheckTitleTest" />
+        <item itemvalue="TestNG.CheckTitleTest.taxesTitleTest" />
+        <item itemvalue="TestNG.TaxCreateTest.createATax" />
+        <item itemvalue="TestNG.CheckTitleTest.BankAccountsTitleTest" />
         <item itemvalue="TestNG.LoginPageTest.positiveLogInTest" />
-        <item itemvalue="TestNG.LoginPageTest" />
-        <item itemvalue="TestNG.LoginPageTest.logInTest" />
       </list>
     </recent_temporary>
   </component>
@@ -333,41 +456,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LoginPageTest - 2019.01.30 at 21h 20m 25s.xml">
-      <configuration name="LoginPageTest" configurationId="TestNG" />
+    <history-entry file="CheckTitleTest - 2019.02.03 at 15h 42m 50s.xml">
+      <configuration name="CheckTitleTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginPageTest_positiveLogInTest - 2019.01.30 at 21h 20m 53s.xml">
-      <configuration name="LoginPageTest.positiveLogInTest" configurationId="TestNG" />
+    <history-entry file="CheckTitleTest - 2019.02.03 at 15h 44m 12s.xml">
+      <configuration name="CheckTitleTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginPageTest_positiveLogInTest - 2019.01.30 at 21h 21m 36s.xml">
-      <configuration name="LoginPageTest.positiveLogInTest" configurationId="TestNG" />
+    <history-entry file="CheckTitleTest - 2019.02.03 at 15h 45m 47s.xml">
+      <configuration name="CheckTitleTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginPageTest - 2019.01.30 at 21h 23m 45s.xml">
-      <configuration name="LoginPageTest" configurationId="TestNG" />
+    <history-entry file="CheckTitleTest - 2019.02.03 at 15h 54m 22s.xml">
+      <configuration name="CheckTitleTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginPageTest_positiveLogInTest - 2019.01.30 at 21h 38m 13s.xml">
-      <configuration name="LoginPageTest.positiveLogInTest" configurationId="TestNG" />
+    <history-entry file="CheckTitleTest - 2019.02.03 at 15h 59m 30s.xml">
+      <configuration name="CheckTitleTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginPageTest_positiveLogInTest - 2019.01.30 at 21h 39m 10s.xml">
-      <configuration name="LoginPageTest.positiveLogInTest" configurationId="TestNG" />
+    <history-entry file="CheckTitleTest - 2019.02.03 at 16h 01m 07s.xml">
+      <configuration name="CheckTitleTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginPageTest_positiveLogInTest - 2019.01.30 at 21h 40m 00s.xml">
-      <configuration name="LoginPageTest.positiveLogInTest" configurationId="TestNG" />
+    <history-entry file="CheckTitleTest - 2019.02.03 at 16h 04m 48s.xml">
+      <configuration name="CheckTitleTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginPageTest_positiveLogInTest - 2019.01.30 at 21h 45m 31s.xml">
-      <configuration name="LoginPageTest.positiveLogInTest" configurationId="TestNG" />
+    <history-entry file="CheckTitleTest - 2019.02.03 at 16h 05m 32s.xml">
+      <configuration name="CheckTitleTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginPageTest_positiveLogInTest - 2019.01.30 at 21h 46m 35s.xml">
-      <configuration name="LoginPageTest.positiveLogInTest" configurationId="TestNG" />
+    <history-entry file="CheckTitleTest - 2019.02.03 at 16h 06m 42s.xml">
+      <configuration name="CheckTitleTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginPageTest_positiveLogInTest - 2019.01.30 at 21h 51m 40s.xml">
-      <configuration name="LoginPageTest.positiveLogInTest" configurationId="TestNG" />
+    <history-entry file="CheckTitleTest - 2019.02.03 at 16h 09m 38s.xml">
+      <configuration name="CheckTitleTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="308" y="-1080" width="1348" height="1044" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17397882" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23602484" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -376,12 +500,40 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2173913" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38638857" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33333334" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32850242" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32930845" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.3292683" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17397882" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2173913" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32850242" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -393,13 +545,96 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/com.briteErp.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="740">
+        <state relative-caret-position="986">
           <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/LoginPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Pages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190202070027.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/ConfigurationReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/configurationAccounting/FiscalPositions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/configurationAccounting/Journals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/configurationAccounting/BankAccounts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="64" column="19" lean-forward="true" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -410,92 +645,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com.briteErp.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Driver.java">
+    <entry file="file://$PROJECT_DIR$/configuration.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-799">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/ConfigurationReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/utilities/BrowserUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2448">
-          <caret line="111" column="55" lean-forward="true" selection-start-line="111" selection-start-column="55" selection-end-line="111" selection-end-column="55" />
+        <state relative-caret-position="-2790">
+          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#5565#5566#0" expanded="true" />
-            <element signature="e#5614#5615#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/configuration.properties">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/configurationAccounting/TaxesPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="42" lean-forward="true" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+        <state relative-caret-position="236">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/smoke_tests/TaxCreateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/utilities/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1207">
-          <caret line="71" column="79" lean-forward="true" selection-start-line="71" selection-start-column="79" selection-end-line="71" selection-end-column="79" />
+        <state relative-caret-position="119">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/LoginPageTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/smoke_tests/CheckTitleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Pages.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/configuration_accounting/TaxesPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="43" column="32" lean-forward="true" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+        <state relative-caret-position="714">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

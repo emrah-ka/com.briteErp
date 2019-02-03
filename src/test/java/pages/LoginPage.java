@@ -36,15 +36,30 @@ public class LoginPage {
     @FindBy(xpath = "(//span[@class ='oe_menu_text'])[8]")
     public WebElement invoicingLink;
 
+    @FindBy(xpath = "//a[@data-menu='218']")
+    public WebElement conf_accnt;
+
+    @FindBy(xpath = "//a[@data-menu='229']")
+    public WebElement conf_acctn_taxes_link;
+
+    @FindBy(xpath = "(//span[@class='oe_menu_text'])[83]")
+    public WebElement conf_acctn_FiscalPos_link;
+
+    @FindBy(xpath = "(//span[@class='oe_menu_text'])[84]")
+    public WebElement conf_acctn_BankAccounts_link;
+
+    @FindBy(xpath = "(//span[@class='oe_menu_text'])[85]")
+    public WebElement conf_acctn_Journal_link;
+
 
     public void login(String usr, String pass)  {
         briteErpDatabaseBtn.click();
-        BrowserUtils.wait(3);
+        BrowserUtils.wait(2);
         username.sendKeys(usr);
         password.sendKeys(pass);
         loginButton.click();
-        BrowserUtils.wait(3);
-        invoicingLink.click();
+
+    //    invoicingLink.click();
     }
 
     public void loginAsManager()  {
@@ -53,8 +68,8 @@ public class LoginPage {
         username.sendKeys(ConfigurationReader.getProperty("username1"));
         password.sendKeys(ConfigurationReader.getProperty("password1"));
         loginButton.click();
-        BrowserUtils.wait(3);
-        invoicingLink.click();
+
+       // invoicingLink.click();
     }
 
     public void loginAsUser()  {
@@ -64,7 +79,7 @@ public class LoginPage {
         password.sendKeys(ConfigurationReader.getProperty("password2"));
         loginButton.click();
         BrowserUtils.wait(3);
-        invoicingLink.click();
+      //  invoicingLink.click();
     }
 
 }

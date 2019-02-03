@@ -9,7 +9,7 @@ public class LoginPageTest extends TestBase {
 
     @Test
     public void positiveLogInTest() {
-        extentLogger = report.createTest("Login Test");
+       // extentLogger = report.createTest("Login Test");
      //   extentLogger.info("stepleri yaz ");
         pages.login().loginAsManager();
 
