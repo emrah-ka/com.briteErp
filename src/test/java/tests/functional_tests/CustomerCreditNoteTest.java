@@ -45,6 +45,7 @@ public class CustomerCreditNoteTest extends TestBase {
         BrowserUtils.wait(10);
         extentLogger.info("Verifying the customers credit notes displayed");
         BrowserUtils.verifyElementDisplayed(pages.creditNotesPage().customerCreditNoteTable);
+        extentLogger.pass("Customers credit notes are displayed");
     }
 
     @Test
