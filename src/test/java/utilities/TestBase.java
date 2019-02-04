@@ -76,6 +76,8 @@ public class TestBase {
         htmlReporter.config().setReportName("BriteErp Automated Test Reports");
 
 
+
+
     }
 
 
