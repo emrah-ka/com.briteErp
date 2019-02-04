@@ -3,11 +3,7 @@ package utilities;
 import pages.CamptocampPage;
 import pages.ErkinsPage;
 import pages.VendorsPage;
-import pages.configuration_accounting.BankAccounts;
-import pages.configuration_accounting.FiscalPositions;
-import pages.configuration_accounting.CustomerCreditNotesPage;
-import pages.configuration_accounting.Journals;
-import pages.configuration_accounting.TaxesPage;
+import pages.configuration_accounting.*;
 import pages.LoginPage;
 
 
@@ -21,6 +17,7 @@ public class Pages {
     private VendorsPage vendorsPage;
     private CamptocampPage camptocampPage;
     private ErkinsPage erkinsPage;
+    private DocumentsPage documentsPage;
 
 
 
@@ -84,6 +81,13 @@ public class Pages {
             erkinsPage = new ErkinsPage();
         }
         return erkinsPage;
+    }
+
+    public DocumentsPage documents(){
+        if(documentsPage ==null){
+            documentsPage= new DocumentsPage();
+        }
+        return documentsPage;
     }
 
 }

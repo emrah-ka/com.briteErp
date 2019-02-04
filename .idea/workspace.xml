@@ -2,26 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec33de10-f2d4-410b-9032-847d320d9324" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/CamptocampPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ErkinsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/VendorsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/CamptoCampTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/ErkinsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/VendorsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/configuration_accounting/DocumentsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/AndrewTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/smoke_tests/CheckTitleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/smoke_tests/CheckTitleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Pages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Pages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/configurationAccounting/BankAccounts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/configurationAccounting/FiscalPositions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/configurationAccounting/Journals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/configurationAccounting/TaxesPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/configuration_accounting/TaxesPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/configuration_accounting/TaxesPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/functional_tests/CustomerCreditNoteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/functional_tests/CustomerCreditNoteTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/tests/smoke_tests/CheckTitleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/smoke_tests/CheckTitleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/smoke_tests/TaxCreateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/smoke_tests/TaxCreateTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/Pages.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/Pages.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/report.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -33,84 +19,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tests/smoke_tests/CheckTitleTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/AndrewTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tests/smoke_tests/TaxCreateTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="19" column="52" lean-forward="true" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/CamptoCampTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="23" column="90" selection-start-line="23" selection-start-column="90" selection-end-line="23" selection-end-column="90" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/CustomerCreditNoteTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="775">
-              <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/ErkinsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="27" column="50" lean-forward="true" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/utilities/TestBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/VendorsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="49" lean-forward="true" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+            <state relative-caret-position="272">
+              <caret line="28" column="46" lean-forward="true" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -152,12 +66,15 @@
         <option value="$PROJECT_DIR$/src/test/java/pages/configuration_accounting/ErkinsPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/VendorsPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/CamptoCampTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/utilities/Pages.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/VendorsTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/ErkinsTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/ErkinsPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/smoke_tests/TaxCreateTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/smoke_tests/CheckTitleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/AndrewTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/DocumentsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utilities/Pages.java" />
       </list>
     </option>
   </component>
@@ -194,7 +111,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="215" />
     <option name="width" value="1158" />
     <option name="height" value="745" />
@@ -205,6 +122,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -244,6 +163,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="configuration_accounting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -272,16 +200,19 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="utilities" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
+              <item name="test-output" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549258297685" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549300737080" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -300,7 +231,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.CheckTitleTest.taxesTitleTest">
+  <component name="RunManager" selected="TestNG.AndrewTests">
+    <configuration name="AndrewTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.briteErp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.functional_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.functional_tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.functional_tests.AndrewTests" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckTitleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.briteErp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.smoke_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.smoke_tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.smoke_tests.CheckTitleTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CheckTitleTest.taxesTitleTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.briteErp" />
       <extension name="coverage">
@@ -313,22 +276,6 @@
       <option name="MAIN_CLASS_NAME" value="tests.smoke_tests.CheckTitleTest" />
       <option name="METHOD_NAME" value="taxesTitleTest" />
       <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ErkinsTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.briteErp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.functional_tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.functional_tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.functional_tests.ErkinsTest" />
       <properties />
       <listeners />
       <method v="2">
@@ -371,36 +318,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VendorsTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.briteErp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.functional_tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.functional_tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.functional_tests.VendorsTest" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="TestNG.TaxCreateTest.createATax" />
-      <item itemvalue="TestNG.VendorsTest" />
-      <item itemvalue="TestNG.ErkinsTest" />
       <item itemvalue="TestNG.ErkinsTest.verifyErkins" />
       <item itemvalue="TestNG.CheckTitleTest.taxesTitleTest" />
+      <item itemvalue="TestNG.CheckTitleTest" />
+      <item itemvalue="TestNG.AndrewTests" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.AndrewTests" />
+        <item itemvalue="TestNG.CheckTitleTest" />
         <item itemvalue="TestNG.CheckTitleTest.taxesTitleTest" />
         <item itemvalue="TestNG.TaxCreateTest.createATax" />
         <item itemvalue="TestNG.ErkinsTest.verifyErkins" />
-        <item itemvalue="TestNG.ErkinsTest" />
-        <item itemvalue="TestNG.VendorsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -418,9 +349,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CustomerCreditNoteTest - 2019.02.03 at 14h 04m 57s.xml">
-      <configuration name="CustomerCreditNoteTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="CustomerCreditNoteTest - 2019.02.03 at 14h 08m 38s.xml">
       <configuration name="CustomerCreditNoteTest" configurationId="TestNG" />
     </history-entry>
@@ -448,11 +376,15 @@
     <history-entry file="CheckTitleTest_taxesTitleTest - 2019.02.04 at 00h 25m 26s.xml">
       <configuration name="CheckTitleTest.taxesTitleTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="CheckTitleTest - 2019.02.04 at 01h 49m 38s.xml">
+      <configuration name="CheckTitleTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16111952" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1633888" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -461,12 +393,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3800322" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3800322" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39884394" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.12184413" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3494364" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32994187" />
@@ -524,20 +456,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/tests/smoke_tests/CheckTitleTest.java</url>
-          <line>11</line>
-          <properties class="tests.smoke_tests.CheckTitleTest" method="taxesTitleTest">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -654,16 +572,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Pages.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-455">
-          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/VendorsPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
@@ -672,36 +580,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#323#324#0" expanded="true" />
             <element signature="e#388#389#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/CustomerCreditNoteTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="775">
-          <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/VendorsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="49" lean-forward="true" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/ErkinsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="27" column="50" lean-forward="true" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -718,40 +596,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/smoke_tests/TaxCreateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="19" column="52" lean-forward="true" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/LoginPageTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/CamptoCampTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="23" column="90" selection-start-line="23" selection-start-column="90" selection-end-line="23" selection-end-column="90" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -770,8 +618,100 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/smoke_tests/CheckTitleTest.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="72" selection-start-line="25" selection-start-column="72" selection-end-line="25" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/smoke_tests/TaxCreateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/CamptoCampTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="90" selection-start-line="23" selection-start-column="90" selection-end-line="23" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/CustomerCreditNoteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Pages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-445">
+          <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/configuration_accounting/DocumentsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/ErkinsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/VendorsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/AndrewTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="28" column="46" lean-forward="true" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
