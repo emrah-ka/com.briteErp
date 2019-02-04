@@ -1,5 +1,8 @@
 package utilities;
 
+import pages.CamptocampPage;
+import pages.ErkinsPage;
+import pages.VendorsPage;
 import pages.configuration_accounting.BankAccounts;
 import pages.configuration_accounting.FiscalPositions;
 import pages.configuration_accounting.CustomerCreditNotesPage;
@@ -15,6 +18,9 @@ public class Pages {
     private FiscalPositions fiscalPositions;
     private Journals journals;
     private CustomerCreditNotesPage creditNotesPage;
+    private VendorsPage vendorsPage;
+    private CamptocampPage camptocampPage;
+    private ErkinsPage erkinsPage;
 
 
 
@@ -58,6 +64,26 @@ public class Pages {
             creditNotesPage = new CustomerCreditNotesPage();
         }
         return creditNotesPage;
+    }
+    public VendorsPage vendors() {
+        if (vendorsPage == null) {
+            vendorsPage = new VendorsPage();
+        }
+        return vendorsPage;
+    }
+
+    public CamptocampPage camptocamp() {
+        if (camptocampPage == null) {
+            camptocampPage = new CamptocampPage();
+        }
+        return camptocampPage;
+    }
+
+    public ErkinsPage erkins() {
+        if (erkinsPage == null) {
+            erkinsPage = new ErkinsPage();
+        }
+        return erkinsPage;
     }
 
 }

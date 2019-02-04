@@ -58,8 +58,8 @@ public class LoginPage {
         username.sendKeys(usr);
         password.sendKeys(pass);
         loginButton.click();
-
-    //    invoicingLink.click();
+        BrowserUtils.wait(6);
+        invoicingLink.click();
     }
 
     public void loginAsManager()  {
@@ -68,8 +68,8 @@ public class LoginPage {
         username.sendKeys(ConfigurationReader.getProperty("username1"));
         password.sendKeys(ConfigurationReader.getProperty("password1"));
         loginButton.click();
-
-       // invoicingLink.click();
+        BrowserUtils.wait(6);
+       invoicingLink.click();
     }
 
     public void loginAsUser()  {
@@ -78,8 +78,8 @@ public class LoginPage {
         username.sendKeys(ConfigurationReader.getProperty("username2"));
         password.sendKeys(ConfigurationReader.getProperty("password2"));
         loginButton.click();
-        BrowserUtils.wait(3);
-      //  invoicingLink.click();
+        BrowserUtils.wait(6);
+      invoicingLink.click();
     }
 
 }
