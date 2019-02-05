@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec33de10-f2d4-410b-9032-847d320d9324" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/configuration_accounting/DocumentsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/AndrewTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/PDFReports/AgedPartnerBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/PDFReports/JournalsAudit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/PDFReports/TaxReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/AgedPartnerBalanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/JournalsAuditTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/TaxReportTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/smoke_tests/CheckTitleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/smoke_tests/CheckTitleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Pages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Pages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/smoke_tests/CheckTitleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/smoke_tests/CheckTitleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/report.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,11 +20,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/AndrewTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
+            <state relative-caret-position="357">
               <caret line="32" selection-start-line="32" selection-end-line="32" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -32,11 +33,113 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/utilities/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-331">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="1037">
+              <caret line="70" column="66" lean-forward="true" selection-start-line="70" selection-start-column="66" selection-end-line="70" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/PDFReports/AgedPartnerBalance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/PDFReports/JournalsAudit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/PDFReports/TaxReport.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#299#300#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/AgedPartnerBalanceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Pages.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="106" column="5" lean-forward="true" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/smoke_tests/CheckTitleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/JournalsAuditTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/TaxReportTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,7 +179,6 @@
         <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/PrintCustomerCreditNoteTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/utilities/BrowserUtils.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/configuration_accounting/CustomerCreditNotesPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/CustomerCreditNoteTest.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/test/java/pages/CamptocampPage.java" />
@@ -91,6 +193,13 @@
         <option value="$PROJECT_DIR$/src/test/java/tests/smoke_tests/CheckTitleTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/AndrewTests.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/DocumentsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/AgedPartnerBalanceTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/JournalsAuditTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/TaxReportTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/PDFReports/AgedPartnerBalance.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/PDFReports/JournalsAudit.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/PDFReports/TaxReport.java" />
         <option value="$PROJECT_DIR$/src/test/java/utilities/Pages.java" />
       </list>
     </option>
@@ -133,14 +242,16 @@
     <option name="width" value="1158" />
     <option name="height" value="745" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,6 +300,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="PDFReports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -229,7 +349,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549300806968" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549332937444" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -399,8 +519,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1633888" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16565809" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -414,7 +535,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3494364" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3494364" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32994187" />
@@ -632,16 +753,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/smoke_tests/CheckTitleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="72" selection-start-line="25" selection-start-column="72" selection-end-line="25" selection-end-column="72" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/smoke_tests/TaxCreateTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -666,16 +777,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="369">
           <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Pages.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-445">
-          <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -716,7 +817,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/AndrewTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
+        <state relative-caret-position="357">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -726,8 +827,94 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/utilities/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-331">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="1037">
+          <caret line="70" column="66" lean-forward="true" selection-start-line="70" selection-start-column="66" selection-end-line="70" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/smoke_tests/CheckTitleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/AgedPartnerBalanceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/JournalsAuditTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/TaxReportTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/PDFReports/AgedPartnerBalance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/PDFReports/JournalsAudit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="51" column="1" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/PDFReports/TaxReport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Pages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="106" column="5" lean-forward="true" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
