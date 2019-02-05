@@ -6,6 +6,8 @@ import utilities.BrowserUtils;
 import utilities.ConfigurationReader;
 import utilities.TestBase;
 
+import static org.testng.Assert.fail;
+
 public class CheckTitleTest extends TestBase {
 
 
@@ -43,8 +45,9 @@ public class CheckTitleTest extends TestBase {
         pages.login().conf_acctn_FiscalPos_link.click();
         BrowserUtils.wait(6);
         extentLogger.info("Verify the page header is Fiscal Positions");
-        softAssertion.assertEquals(pages.taxes().pageName.getText(), "Fiscal Positions");
+        softAssertion.assertEquals(pages.taxes().pageName.getText(), "Fiscal Posit;;;ions");
         softAssertion.assertAll();
+
     }
 
     @Test

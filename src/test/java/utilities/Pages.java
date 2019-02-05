@@ -6,8 +6,21 @@ import pages.PDFReports.AgedPartnerBalance;
 import pages.PDFReports.JournalsAudit;
 import pages.PDFReports.TaxReport;
 import pages.VendorsPage;
+import pages.configurationManagements.PaymentTerms;
+import pages.configurationPayments.PaymentAcquirers;
 import pages.configuration_accounting.*;
 import pages.LoginPage;
+import pages.puchasesMasterData.PurchasableProducts;
+import pages.puchasesMasterData.Vendors;
+import pages.purchasesDocuments.Payments;
+import pages.purchasesDocuments.VendorBills;
+import pages.purchasesDocuments.VendorCreditNotes;
+import pages.reportingManagemet.Invoices;
+import pages.salesDocuments.CustomerCreditNotes;
+import pages.salesDocuments.CustomerInvoices;
+import pages.salesDocuments.PaymentsSD;
+import pages.salesMasterData.Customers;
+import pages.salesMasterData.SellableProducts;
 
 
 public class Pages {
@@ -24,6 +37,106 @@ public class Pages {
     private AgedPartnerBalance agedPartnerBalance;
     private JournalsAudit journalsAudit;
     private TaxReport taxReport;
+    private PaymentTerms paymentTerms;
+    private PaymentAcquirers paymentAcquirers;
+    private PurchasableProducts purchasableProducts;
+    private Vendors pmdvendors;
+    private Payments paymentsPurchaseDocument;
+    private VendorBills vendorBills;
+    private VendorCreditNotes vendorCreditNotes;
+    private Invoices invoices;
+    private CustomerCreditNotes customerCreditNotes;
+    private CustomerInvoices customerInvoices;
+    private PaymentsSD paymentsSD;
+    private Customers customers;
+    private SellableProducts sellableProducts;
+
+
+
+    public SellableProducts sellableProducts(){
+        if(sellableProducts()==null){
+            sellableProducts=new SellableProducts();
+        }
+        return sellableProducts;
+    }
+
+    public Customers customers(){
+        if(customers==null){
+            customers=new Customers();
+        }
+        return  customers;
+    }
+
+    public PaymentsSD paymentsSD(){
+        if(paymentsSD==null){
+            paymentsSD=new PaymentsSD();
+        }
+        return paymentsSD;
+    }
+
+    public CustomerInvoices customerInvoices(){
+        if(customerInvoices==null){
+            customerInvoices= new CustomerInvoices();
+        }
+        return customerInvoices;
+    }
+
+    public CustomerCreditNotes customerCreditNotes(){
+        if(customerCreditNotes==null){
+            customerCreditNotes= new CustomerCreditNotes();
+        }
+        return customerCreditNotes;
+    }
+
+    public Invoices invoices(){
+        if (invoices==null){
+            invoices=new Invoices();
+        }
+        return  invoices;
+    }
+
+    public VendorCreditNotes vendorCreditNotes() {
+        if(vendorCreditNotes==null){
+            vendorCreditNotes=new VendorCreditNotes();
+        }
+        return vendorCreditNotes;
+    }
+
+    public VendorBills vendorBills(){
+        if(vendorBills==null){
+            vendorBills = new VendorBills();
+        }
+        return vendorBills;
+    }
+
+    public Payments paymentsPurchaseDocument(){
+        if(paymentsPurchaseDocument==null){
+            paymentsPurchaseDocument = new Payments();
+        }
+        return paymentsPurchaseDocument;
+    }
+
+    public Vendors pmdvendors(){
+        if (pmdvendors==null){
+            pmdvendors = new Vendors();
+        }
+        return pmdvendors;
+    }
+
+    public PurchasableProducts purchasableProducts(){
+        if(purchasableProducts==null){
+            purchasableProducts= new PurchasableProducts();
+        }
+        return purchasableProducts;
+    }
+
+    public PaymentAcquirers paymentAcquirers(){
+        if(paymentAcquirers==null){
+            paymentAcquirers = new PaymentAcquirers();
+        }
+        return paymentAcquirers;
+    }
+
 
 
 
@@ -113,6 +226,12 @@ public class Pages {
             taxReport = new TaxReport();
         }
         return taxReport;
+    }
+    public PaymentTerms paymentTerms(){
+        if(paymentTerms==null){
+            paymentTerms = new PaymentTerms();
+        }
+        return paymentTerms;
     }
 
 }
