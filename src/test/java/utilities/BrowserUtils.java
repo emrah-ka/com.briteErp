@@ -275,4 +275,17 @@ public class BrowserUtils {
         }
     }
 
+    public static boolean isClickable(WebElement element) {
+        WebDriverWait wait = new WebDriverWait(Driver.getDriver(), 10);
+        try {
+            wait.until(ExpectedConditions.elementToBeClickable(element));
+
+        }catch(Exception e){
+            return false;
+        }
+        return true;
+    }
+
+
+
 }
