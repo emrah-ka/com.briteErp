@@ -4,8 +4,11 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.Assert;
 import utilities.ConfigurationReader;
 import utilities.Driver;
+
+import java.util.List;
 
 public class BankAccounts {
     public BankAccounts(){
@@ -51,5 +54,20 @@ public class BankAccounts {
 
     @FindBy(xpath = "//button[@class='btn btn-sm btn-primary']")
     public WebElement okButtonAfterDelete;
+
+    @FindBy(xpath = "//table[@class='o_list_view table table-condensed table-striped o_list_view_ungrouped']//tr//td[3]")
+    public List<WebElement> journalNames;
+
+
+    public boolean isDisplayed(){
+        boolean check=false;
+
+        for(WebElement list : journalNames){
+            if(list.getText().contains("citick")){
+                check=true;
+            }
+        }
+        return check;
+    }
 
 }

@@ -1,6 +1,5 @@
 package tests.functional_tests;
 
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.testng.Assert;
@@ -39,23 +38,32 @@ public class BankAccountCreateTest_emrah extends TestBase {
         pages.bankaccounts().newSaveButton.click();
 
         extentLogger.info("Check after created, Bank Account information right");
-        Assert.assertEquals(Driver.getDriver().findElement(By.xpath(
+        softAssertion.assertEquals(Driver.getDriver().findElement(By.xpath(
                 "//span[@class='o_field_char o_field_widget o_required_modifier']")).getText(),
                 ConfigurationReader.getProperty("bankaccountname"));
 
         extentLogger.info("Check created Bank Account information is shown on Bank Account Page");
         pages.bankaccounts().getBankAccountPage();
         BrowserUtils.wait(6);
-        Assert.assertEquals(pages.bankaccounts().savedBankAcctnOnPage().getText(),ConfigurationReader.getProperty("bankaccountname"));
+        softAssertion.assertTrue(pages.bankaccounts().isDisplayed());
 
-        extentLogger.info("Delete the Bank Account that we created");
+        softAssertion.assertEquals(pages.bankaccounts().savedBankAcctnOnPage().getText(),ConfigurationReader.getProperty("bankaccountname"));
+
         pages.bankaccounts().getBankAccountPage();
         BrowserUtils.wait(5);
         pages.bankaccounts().savedBankAcctnOnPage().click();
         BrowserUtils.wait(7);
+        extentLogger.info("Go to Action than Delete it");
         pages.bankaccounts().actionButton.click();
         pages.bankaccounts().deleteBtn.click();
         pages.bankaccounts().okButtonAfterDelete.click();
+
+        pages.bankaccounts().getBankAccountPage();
+
+        extentLogger.info("Check deleted Bank Account information is not shown on Bank Account Page");
+        BrowserUtils.wait(5);
+        Driver.getDriver().navigate().refresh();
+        softAssertion.assertFalse(pages.bankaccounts().isDisplayed());
     }
 
     @Test
@@ -85,17 +93,33 @@ public class BankAccountCreateTest_emrah extends TestBase {
         pages.bankaccounts().newSaveButton.click();
 
         extentLogger.info("Check after created, Bank Account information right");
-        Assert.assertEquals(Driver.getDriver().findElement(By.xpath(
+        softAssertion.assertEquals(Driver.getDriver().findElement(By.xpath(
                 "//span[@class='o_field_char o_field_widget o_required_modifier']")).getText(),
                 ConfigurationReader.getProperty("bankaccountname"));
 
         extentLogger.info("Check created Bank Account information is shown on Bank Account Page");
         pages.bankaccounts().getBankAccountPage();
         BrowserUtils.wait(6);
-        Assert.assertEquals(pages.bankaccounts().savedBankAcctnOnPage().getText(),ConfigurationReader.getProperty("bankaccountname"));
+        softAssertion.assertTrue(pages.bankaccounts().isDisplayed());
 
+        softAssertion.assertEquals(pages.bankaccounts().savedBankAcctnOnPage().getText(),ConfigurationReader.getProperty("bankaccountname"));
+
+        pages.bankaccounts().getBankAccountPage();
+        BrowserUtils.wait(5);
+        pages.bankaccounts().savedBankAcctnOnPage().click();
+        BrowserUtils.wait(7);
+        extentLogger.info("Go to Action than Delete it");
+        pages.bankaccounts().actionButton.click();
+        pages.bankaccounts().deleteBtn.click();
+        pages.bankaccounts().okButtonAfterDelete.click();
+
+        pages.bankaccounts().getBankAccountPage();
+
+        extentLogger.info("Check deleted Bank Account information is not shown on Bank Account Page");
+        BrowserUtils.wait(5);
+        Driver.getDriver().navigate().refresh();
+        softAssertion.assertFalse(pages.bankaccounts().isDisplayed());
     }
-
 
 
 
