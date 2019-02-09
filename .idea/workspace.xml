@@ -2,197 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec33de10-f2d4-410b-9032-847d320d9324" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190202070027.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190202070145.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190202070329.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190202075311.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190202085336.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190202085847.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190202095158.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190202095758.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190203033830.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190203034003.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190203035421.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190203035930.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190203040106.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsCreateClickability20190208022638.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsCreateClickability20190208022914.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsCreateClickability20190208023218.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsCreateClickability20190208023457.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsCreateClickability20190208023724.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsCreateEmptyPartner20190203031844.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPayment20190208032808.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190203010026.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190203010146.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190203010225.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190203010317.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190203010606.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190203010825.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190203010922.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190203010953.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190203011205.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190203011415.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190203021129.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190203021246.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190203021319.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190203021404.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190203021440.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190203021529.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190203031004.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190203031104.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190203124239.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190203125333.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190203125611.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190203125700.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190203125752.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190203125857.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190203125942.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190204064724.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190204075334.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190204084959.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190204114903.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190204114946.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDeletePostedPaymnet20190208030450.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDuplicateBill20190203032635.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDuplicateBill20190203033008.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDuplicateBill20190203033806.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDuplicateBill20190203035135.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDuplicateBill20190203035214.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDuplicateBill20190204065722.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsDuplicateBill20190204115134.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsEmptyInvoice20190203023331.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsEmptyInvoice20190203023635.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsEmptyInvoice20190203023715.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsEmptyInvoice20190203024121.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsEmptyInvoice20190203024208.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsEmptyInvoice20190203025207.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsEmptyInvoice20190203025354.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsEmptyInvoice20190203025528.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsEmptyInvoice20190203025907.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsEmptyInvoice20190203030111.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsEmptyInvoice20190203030317.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsEmptyInvoice20190203030515.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsEmptyInvoice20190203030612.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsEmptyInvoice20190203030909.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsEmptyInvoice20190203031301.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsJournalsTitleTest20190202101454.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsJournalsTitleTest20190202101712.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsJournalsTitleTest20190202105301.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsPaymentsVerifyTitle20190208020527.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsPaymentsVerifyTitle20190208020704.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsPaymentsVerifyTitle20190208020927.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsVendorBillsVerifyTitle20190208021203.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsVendorCreditNotesVerifyTitle20190208021438.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsVerifyPaymentAmount20190204121923.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsVerifyPaymentAmountt20190208025237.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsVerifyPaymentAmountt20190208025424.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTest20190208103802.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTest20190208104547.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTest20190208104718.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTest20190208105405.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTest20190208111333.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTest20190208114125.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTestAsManager20190209010739.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTestAsManager20190209023214.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTestAsManager20190209023605.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTestAsManager20190209032803.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTestAsManager20190209033045.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTestAsManager20190209033139.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTestAsManager20190209033417.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTestAsManager20190209033530.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTestAsManager20190209033651.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTestAsManager20190209100806.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTestAsManager20190209101453.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTestAsManager20190209102017.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTestAsManager20190209102515.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTestAsManager20190209102737.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTestAsManager20190209123236.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTestAsManager20190209123548.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTestAsManager20190209124107.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTestAsManager20190209124330.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTestAsManager20190209124619.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTestAsManager20190209124957.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTestAsUser20190209010246.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTestAsUser20190209010509.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsbankAccountCreateTestAsUser20190209010858.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotscreateATax20190203010053.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotscreateATax20190203010112.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotscreateATax20190203010252.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotscreateATax20190203010432.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotscreateATax20190203012926.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotscreateATax20190203013312.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotscreateATax20190203013626.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotscreateATax20190203015829.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotscreateATax20190203113247.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotscreateATax20190203113456.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotscreateATax20190203113653.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotscreateATax20190203115854.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotscreateATax20190203120035.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotscreateATax20190203120301.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotscreateATax20190203121458.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotscreateATax20190203121622.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotscreateATax20190203124824.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotscreateATax20190203125005.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotscreateATax20190203125118.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotscreateATax20190203125411.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotscreateATax20190203125651.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotscreateATax20190203125751.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotscreateATax20190204122143.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotscreateATax20190207070520.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotscreateATax20190207080053.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotscreateATax20190207084417.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsfiscalPositionsTitleTest20190202105639.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsfiscalPositionsTitleTest20190204110538.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsimportClickability20190208113741.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsimportClickability20190208113845.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotslistOfCustomersDispayTest20190203020436.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotslogInTest20190130084601.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotslogInTest20190130085159.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotslogInTest20190130085250.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotslogInTest20190130085458.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotspaymentsVerifyTitle20190209121729.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsprintFunctionTest20190202093254.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsprintFunctionTest20190202093351.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsprintFunctionTest20190203020456.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsprintFunctionTest20190203020836.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsprintFunctionTest20190203122916.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsprintFunctionTest20190203123314.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsprintFunctionTest20190203124506.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsprintFunctionTest20190203124708.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202070704.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202071236.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202071326.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202071440.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202071651.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202071810.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202071930.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202072045.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202072659.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202072901.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202073015.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202073121.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202073457.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202074149.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202075432.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202080246.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202080406.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202080502.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202081334.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202081446.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202083025.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190202084139.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190204014935.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190204122343.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190204122525.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsvendorCreditNotesVerifyTitle20190208115241.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsverifyErkins20190203061140.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsverifyErkins20190203061307.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsverifyVendor20190208110514.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsverifyVendor20190208110558.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsverifyVendor20190208110722.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/ScreenshotsverifyVendors20190203060936.png" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -216,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            <state>
+              <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -379,7 +189,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="1094" />
     <option name="height" value="745" />
@@ -415,64 +225,6 @@
             <path>
               <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
               <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="configuration_accounting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="functional_tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-              <item name="smoke_tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utilities" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
               <item name="test-output" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -482,7 +234,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549753935734" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549754454085" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -657,7 +409,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16792738" />
@@ -1129,8 +881,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
