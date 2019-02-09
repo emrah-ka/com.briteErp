@@ -8,11 +8,6 @@ import utilities.Driver;
 
 public class DocumentsPage {
 
-    public void open() {
-        Driver.getDriver().get(ConfigurationReader.getProperty("url"));
-
-    }
-
 
     public DocumentsPage() {
         PageFactory.initElements(Driver.getDriver(), this);
@@ -27,18 +22,8 @@ public class DocumentsPage {
     @FindBy(xpath = "//a[@data-menu='242']")
     public WebElement vendorCreditNotes;
 
-//        @FindBy(xpath = "//a[@class='login']")
-//        public WebElement submit;
-//
-//        public void login(String name, String password) {
-//            this.username.sendKeys(name);
-//            this.password.sendKeys(password);
-//            this.loginClickButton.click();
-//        }
-
-
-
-
+    @FindBy(xpath = "//a[@data-menu='241']")
+    public WebElement vendorBills;
 
 
 }
