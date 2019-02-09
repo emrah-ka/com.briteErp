@@ -1,11 +1,11 @@
 package utilities;
 
-import pages.CamptocampPage;
-import pages.ErkinsPage;
+import pages.puchasesMasterData.CamptocampPage;
+import pages.puchasesMasterData.ErkinsPage;
 import pages.PDFReports.AgedPartnerBalance;
 import pages.PDFReports.JournalsAudit;
 import pages.PDFReports.TaxReport;
-import pages.VendorsPage;
+import pages.puchasesMasterData.VendorsPage;
 import pages.configurationManagements.PaymentTerms;
 import pages.configurationPayments.PaymentAcquirers;
 import pages.configuration_accounting.*;

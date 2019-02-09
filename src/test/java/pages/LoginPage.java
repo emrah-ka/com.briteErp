@@ -7,6 +7,8 @@ import utilities.BrowserUtils;
 import utilities.ConfigurationReader;
 import utilities.Driver;
 
+import java.util.List;
+
 
 public class LoginPage {
     public LoginPage() {
@@ -50,6 +52,9 @@ public class LoginPage {
 
     @FindBy(xpath = "(//span[@class='oe_menu_text'])[85]")
     public WebElement conf_acctn_Journal_link;
+
+    @FindBy(xpath = "//div[@class='o_sub_menu_content']/div[8]//li/a")
+    public List<WebElement> list;
 
 
     public void login(String usr, String pass)  {
