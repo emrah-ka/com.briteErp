@@ -21,19 +21,19 @@ public class AgedPartnerBalance {
     @FindBy (id = "o_field_input_421")
     public WebElement periodLength;
 
-    @FindBy (id = "radio422_customer")
+    @FindBy (xpath = "(//input[@class='o_radio_input'])[1]")
     public WebElement receivableAccountsRadio;
 
-    @FindBy (id = "radio422_supplier")
+    @FindBy (xpath = "(//input[@class='o_radio_input'])[2]")
     public WebElement payableAccountsRadio;
 
-    @FindBy (id = "radio422_customer_supplier")
+    @FindBy (xpath = "(//input[@class='o_radio_input'])[3]")
     public WebElement receivablePayableRadio;
 
-    @FindBy (id = "radio424_posted")
+    @FindBy (xpath = "(//input[@class='o_radio_input'])[4]")
     public WebElement allPostedRadio;
 
-    @FindBy (id = "radio424_all")
+    @FindBy (xpath = "(//input[@class='o_radio_input'])[5]")
     public WebElement allEntries;
 
     @FindBy (name = "check_report")
@@ -51,5 +51,17 @@ public class AgedPartnerBalance {
     //PDFReportsButton --- Hamide.
     @FindBy (xpath = "(//span[@class='oe_menu_text'])[77]")
     public WebElement PDFReportsButton;
+
+    @FindBy (xpath = "/t[1]/t[1]/t[1]/div[1]/h2[1]")
+    public WebElement getAgedPartnerBalanceReportTitle;
+
+    @FindBy (xpath = "//div[@class='modal-header']")
+    public WebElement space;
+
+    @FindBy (xpath = "//div[@class='o_notification_title']")
+    public WebElement reportNotification;
+
+    @FindBy (xpath = "//div[@class='o_notification_content']")
+    public WebElement reportNotificationText;
 
 }
