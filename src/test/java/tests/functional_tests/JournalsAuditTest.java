@@ -1,12 +1,17 @@
 package tests.functional_tests;
 
+import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import pages.LoginPage;
 import pages.PDFReports.AgedPartnerBalance;
 import pages.PDFReports.JournalsAudit;
 import pages.PDFReports.TaxReport;
+import utilities.BrowserUtils;
 import utilities.TestBase;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class JournalsAuditTest extends TestBase {
 
@@ -16,18 +21,18 @@ public class JournalsAuditTest extends TestBase {
     TaxReport taxReport;
 
     @Test
-    public void JournalsAuditTitleCheck(){
+    public void JournalsAuditTitleCheck() {
         pages.login().loginAsManager();
         pages.agedPartners().PDFReportsButton.click();
         journalsAudit.journalsAuditButton.click();
 
         String title = journalsAudit.journalsAuditTitle.getText();
-        Assert.assertEquals(title , "Journals Audit");
+        Assert.assertEquals(title, "Journals Audit");
         System.out.println("Titles match");
     }
 
     @Test
-    public void mainPageUnderPDFReportsTitlesCheck(){
+    public void mainPageUnderPDFReportsTitlesCheck() {
         pages.login().loginAsManager();
         pages.agedPartners().PDFReportsButton.click();
 
@@ -39,5 +44,25 @@ public class JournalsAuditTest extends TestBase {
         Assert.assertEquals(agedPartnerBalanceTitleMainPage, "Aged Partner Balance");
         Assert.assertEquals(taxReportTitleMainPage, "Tax Report");
         System.out.println("All titles match");
+    }
+
+    @Test
+    public void journalsAuditFullClickabilityCheck() {
+        pages.login().loginAsManager();
+        pages.agedPartners().PDFReportsButton.click();
+        pages.journalsAudit().journalsAuditButton.click();
+
+        BrowserUtils.wait(3);
+        journalsAudit.allEntriesRadioButton.click();
+        journalsAudit.dateRadioButton.click();
+
+        BrowserUtils.wait(3);
+        journalsAudit.startDate.sendKeys("02/02/2019");
+        journalsAudit.endDate.click();
+        journalsAudit.endDate.sendKeys("03/03/2019");
+        journalsAudit.journals.click();
+        journalsAudit.cancelButton.click();
+
+        System.out.println("All tests passed for journalsAuditFullClickabilityCheck");
     }
 }

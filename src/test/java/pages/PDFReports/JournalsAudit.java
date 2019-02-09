@@ -11,10 +11,10 @@ public class JournalsAudit {
         PageFactory.initElements(Driver.getDriver(), this);
     }
 
-    @FindBy (id = "radio280_posted")
+    @FindBy (xpath = "(//input[@class='o_radio_input'])[1]")
     public WebElement allPostedEntriesRadioButton;
 
-    @FindBy (id = "radio280_all")
+    @FindBy (xpath = "(//input[@class='o_radio_input'])[2]")
     public WebElement allEntriesRadioButton;
 
     @FindBy(xpath = "(//div[@class='o_field_radio o_vertical o_field_widget o_required_modifier'])[1]")
@@ -23,10 +23,10 @@ public class JournalsAudit {
     @FindBy (xpath = "(//div[@class='o_field_radio o_vertical o_field_widget o_required_modifier'])[2]")
     public WebElement entriesSortedBy;
 
-    @FindBy (id = "radio311_date")
+    @FindBy (xpath = "(//input[@class='o_radio_input'])[3]")
     public WebElement dateRadioButton;
 
-    @FindBy (id = "radio311_move_name")
+    @FindBy (id = "(//input[@class='o_radio_input'])[4]")
     public WebElement journalEntryNumberRadioButton;
 
     @FindBy (xpath = "(//span[@class='oe_menu_text'])[78]")
@@ -35,13 +35,13 @@ public class JournalsAudit {
     @FindBy (xpath = "//*[@class='modal-title']")
     public WebElement journalsAuditTitle;
 
-    @FindBy (id = "o_field_input_313")
+    @FindBy (xpath = "(//input[@class='o_datepicker_input o_input'])[1]")
     public WebElement startDate;
 
-    @FindBy (id = "o_field_input_314")
+    @FindBy (xpath = "(//input[@class='o_datepicker_input o_input'])[2]")
     public WebElement endDate;
 
-    @FindBy (id = "o_field_input_315")
+    @FindBy (xpath = "(//input[@class='o_input ui-autocomplete-input'])[1]")
     public WebElement journals;
 
     @FindBy (xpath = "//*[@class='btn btn-sm oe_highlight']")
