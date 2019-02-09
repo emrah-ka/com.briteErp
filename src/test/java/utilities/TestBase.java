@@ -47,7 +47,7 @@ public class TestBase {
             extentLogger.skip("Test Case Skipped: " + result.getName());
         }
         softAssertion=null;
-        Driver.closeDriver();
+     //   Driver.closeDriver();
     }
     @BeforeTest
     public void setUpTest() {
