@@ -5,9 +5,9 @@ import pages.ErkinsPage;
 import pages.PDFReports.AgedPartnerBalance;
 import pages.PDFReports.JournalsAudit;
 import pages.PDFReports.TaxReport;
+import pages.Payment.PaymentAquires;
 import pages.VendorsPage;
 import pages.configurationManagements.PaymentTerms;
-import pages.configurationPayments.PaymentAcquirers;
 import pages.configuration_accounting.*;
 import pages.LoginPage;
 import pages.puchasesMasterData.PurchasableProducts;
@@ -38,7 +38,7 @@ public class Pages {
     private JournalsAudit journalsAudit;
     private TaxReport taxReport;
     private PaymentTerms paymentTerms;
-    private PaymentAcquirers paymentAcquirers;
+    private PaymentAquires peymentAquires;
     private PurchasableProducts purchasableProducts;
     private Vendors pmdvendors;
     private Payments paymentsPurchaseDocument;
@@ -130,11 +130,11 @@ public class Pages {
         return purchasableProducts;
     }
 
-    public PaymentAcquirers paymentAcquirers(){
-        if(paymentAcquirers==null){
-            paymentAcquirers = new PaymentAcquirers();
+    public PaymentAquires peymentAquires(){
+        if(peymentAquires==null){
+            peymentAquires = new PaymentAquires();
         }
-        return paymentAcquirers;
+        return peymentAquires;
     }
 
 
