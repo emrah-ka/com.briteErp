@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec33de10-f2d4-410b-9032-847d320d9324" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/IpadMini2Page.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/NewProductPage.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/NewVendorPage.java" afterDir="false" />
@@ -38,6 +39,13 @@
       <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/Pages.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/Pages.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/report.html" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/Payment/PaymentAquires.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/PaymentAquiresTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/configurationPayments/PaymentAcquirers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Pages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Pages.java" afterDir="false" />
+>>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -49,6 +57,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/VintageShirtTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -57,10 +66,18 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/BankAccountCreateTest_emrah.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-258">
+              <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+>>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/VintageShirtPage.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -69,6 +86,46 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/PaymentAquiresTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="28" column="51" lean-forward="true" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Pages.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/Payment/PaymentAquires.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+>>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
             </state>
           </provider>
         </entry>
@@ -76,8 +133,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/IpadMini2Page.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="525">
               <caret line="31" selection-start-line="31" selection-end-line="31" />
+=======
+            <state relative-caret-position="833">
+              <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+>>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,8 +150,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/PurchasableProductsPage.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="252">
               <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="18" selection-end-column="48" />
+=======
+            <state relative-caret-position="935">
+              <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+>>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -112,8 +179,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/NewProductPage.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="420">
               <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="26" selection-end-column="33" />
+=======
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+>>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -124,8 +196,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Pages.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="5439">
               <caret line="275" selection-start-line="275" selection-end-line="275" />
+=======
+            <state relative-caret-position="374">
+              <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+>>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -179,6 +256,7 @@
         <option value="$PROJECT_DIR$/src/test/java/pages/configuration_accounting/BankAccounts.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/BankAccountCreateTest_emrah.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/test/java/tests/smoke_tests/SmokeTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/PDFReports/TaxReport.java" />
@@ -204,6 +282,11 @@
         <option value="$PROJECT_DIR$/src/test/java/utilities/Pages.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/VintageShirtPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/VintageShirtTest.java" />
+=======
+        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/PaymentAquiresTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/configurationPayments/PaymentAcquirers.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utilities/Pages.java" />
+>>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
       </list>
     </option>
   </component>
@@ -241,9 +324,19 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
     <option name="x" value="-7" />
     <option name="width" value="1933" />
     <option name="height" value="1047" />
+=======
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+>>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -291,6 +384,27 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
+              <item name="Payment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="PDFReports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
               <item name="puchasesMasterData" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -299,6 +413,45 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="purchasesDocuments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="reportingManagemet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="salesDocuments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="salesMasterData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -326,6 +479,14 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="utilities" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
+            </path>
+            <path>
+              <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
+              <item name="test-output" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
             </path>
           </expand>
           <select />
@@ -336,7 +497,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549896477293" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549776581035" />
+>>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -346,8 +511,14 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="pages" />
     </key>
+<<<<<<< HEAD
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="tests.smoke_tests" />
+=======
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUSNB\com.briteErp" />
+      <recent name="C:\Users\ASUSNB\com.briteErp\src\test\java\pages\configuration_accounting" />
+>>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
     </key>
   </component>
   <component name="RunDashboard">
@@ -516,10 +687,17 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21162046" />
+=======
+    <frame x="-1928" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.119936034" />
+>>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -533,7 +711,11 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.049217" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.23794213" />
+>>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.033557046" />
@@ -593,6 +775,7 @@
     </option>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/Vendors.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -601,6 +784,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/PurchasableProducts.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/CamptocampPage.java">
+>>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
@@ -739,7 +925,13 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/ErkinsPage.java">
+=======
+    <entry file="file://$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190202070027.png" />
+    <entry file="file://$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190204122525.png" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/salesDocuments/CustomerInvoices.java">
+>>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
@@ -824,6 +1016,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1470">
@@ -832,6 +1025,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/PDFReports/TaxReport.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/AndrewTests.java">
+>>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1995">
           <caret line="100" column="37" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="37" />
@@ -947,20 +1143,34 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/IpadMiniPrintTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="413">
           <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+>>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/IpadMini2Page.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/configuration_accounting/BankAccounts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+>>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -979,8 +1189,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/NewProductTest.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="126">
           <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+=======
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+>>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -989,14 +1204,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/NewProductPage.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="420">
           <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="26" selection-end-column="33" />
+=======
+        <state relative-caret-position="374">
+          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+>>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Pages.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5439">
@@ -1004,11 +1225,18 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+>>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/VintageShirtPage.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="483">
           <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
           <folding>
@@ -1021,6 +1249,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
           <caret line="48" column="48" selection-start-line="48" selection-start-column="48" selection-end-line="48" selection-end-column="48" />
+=======
+        <state relative-caret-position="-258">
+          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Pages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/Payment/PaymentAquires.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/PaymentAquiresTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="28" column="51" lean-forward="true" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
+>>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
