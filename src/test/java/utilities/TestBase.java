@@ -19,6 +19,8 @@ public class TestBase {
     protected Pages pages;
     protected SoftAssert softAssertion;
 
+
+
     protected static ExtentReports report;
     protected static ExtentHtmlReporter htmlReporter;
     //   private static ExtentHtmlReporter htmlReporter;
@@ -30,6 +32,7 @@ public class TestBase {
         driver = Driver.getDriver();
         pages = new Pages();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        Driver.getDriver().manage().window().maximize();
         driver.get(ConfigurationReader.getProperty("url"));
         softAssertion = new SoftAssert();
     }
@@ -47,7 +50,7 @@ public class TestBase {
             extentLogger.skip("Test Case Skipped: " + result.getName());
         }
         softAssertion=null;
-        Driver.closeDriver();
+        //Driver.closeDriver();
     }
     @BeforeTest
     public void setUpTest() {

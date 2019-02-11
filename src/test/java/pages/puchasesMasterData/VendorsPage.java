@@ -8,6 +8,8 @@ import utilities.Driver;
 import utilities.Pages;
 import utilities.TestBase;
 
+import java.util.List;
+
 public class VendorsPage extends TestBase {
 
     public VendorsPage(){
@@ -26,7 +28,14 @@ public class VendorsPage extends TestBase {
     @FindBy(xpath = "//div[@class='o_kanban_view o_res_partner_kanban o_kanban_ungrouped']/div[16]")
     public WebElement erkins;
 
+    @FindBy(xpath = "//button[@class='btn btn-primary btn-sm o-kanban-button-new btn-default']")
+    public WebElement createVendorButton;
 
+    @FindBy(xpath = "(//button[@class='o_dropdown_toggler_btn btn btn-sm dropdown-toggle'])[3]")
+    public WebElement filtersButton;
+
+    @FindBy(xpath = "//div[@class='o_kanban_view o_res_partner_kanban o_kanban_ungrouped']/div")
+    public List<WebElement> allVendors;
 
 
     public void clickOnVendors(){
@@ -37,10 +46,12 @@ public class VendorsPage extends TestBase {
         pages.login().loginAsUser();
 
         extentLogger.info("click on master data");
+        pages.vendors().masterDataButton.click();
 
         BrowserUtils.wait(2);
 
         extentLogger.info("click on vendors");
+        pages.vendors().vendorsButton.click();
 
         BrowserUtils.wait(3);
 

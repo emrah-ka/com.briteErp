@@ -1,17 +1,13 @@
 package utilities;
 
-import pages.puchasesMasterData.CamptocampPage;
-import pages.puchasesMasterData.ErkinsPage;
+import pages.puchasesMasterData.*;
 import pages.PDFReports.AgedPartnerBalance;
 import pages.PDFReports.JournalsAudit;
 import pages.PDFReports.TaxReport;
-import pages.puchasesMasterData.VendorsPage;
 import pages.configurationManagements.PaymentTerms;
 import pages.configurationPayments.PaymentAcquirers;
 import pages.configuration_accounting.*;
 import pages.LoginPage;
-import pages.puchasesMasterData.PurchasableProducts;
-import pages.puchasesMasterData.Vendors;
 import pages.purchasesDocuments.Payments;
 import pages.purchasesDocuments.VendorBills;
 import pages.purchasesDocuments.VendorCreditNotes;
@@ -50,6 +46,11 @@ public class Pages {
     private PaymentsSD paymentsSD;
     private Customers customers;
     private SellableProducts sellableProducts;
+    private NewVendorPage newVendor;
+    private PurchasableProductsPage purchasablePro;
+    private NewProductPage newProduct;
+    private IpadMini2Page ipadMini2;
+    private VintageShirtPage vintageShirt;
 
 
 
@@ -233,5 +234,44 @@ public class Pages {
         }
         return paymentTerms;
     }
+
+    public NewVendorPage newVendor(){
+        if(newVendor==null){
+            newVendor = new NewVendorPage();
+        }
+        return newVendor;
+    }
+
+    public PurchasableProductsPage purchasablePro(){
+        if(purchasablePro==null){
+            purchasablePro = new PurchasableProductsPage();
+        }
+        return purchasablePro;
+    }
+
+    public NewProductPage newProduct(){
+        if(newProduct==null){
+            newProduct = new NewProductPage();
+        }
+        return newProduct;
+    }
+
+    public IpadMini2Page ipadMini2(){
+        if(ipadMini2 ==null){
+            ipadMini2 = new IpadMini2Page();
+        }
+        return ipadMini2;
+    }
+
+    public VintageShirtPage vintageShirt(){
+        if(vintageShirt ==null){
+            vintageShirt = new VintageShirtPage();
+        }
+        return vintageShirt;
+    }
+
+
+
+
 
 }
