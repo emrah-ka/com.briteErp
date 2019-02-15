@@ -26,9 +26,6 @@ public class PurchasableProductTest extends TestBase {
         //BrowserUtils.waitForClickablility(pages.purchasablePro().anyText,10);
         BrowserUtils.wait(7);
 
-        extentLogger.info("verify the title");
-        Assert.assertTrue(Driver.getDriver().getTitle().contains("Purchasable Products"));
-
         extentLogger.info("verify that list of products is displayed");
         for(int i=0;i<pages.purchasablePro().allProducts.size();i++){
             Assert.assertTrue(pages.purchasablePro().allProducts.get(i).isDisplayed());

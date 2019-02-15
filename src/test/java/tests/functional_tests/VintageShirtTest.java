@@ -7,6 +7,7 @@ import utilities.TestBase;
 
 public class VintageShirtTest extends TestBase {
 
+
     @Test
     public void vintageShirtexportTest(){
         extentLogger = report.createTest("new product  test");
@@ -30,10 +31,12 @@ public class VintageShirtTest extends TestBase {
         extentLogger.info("click on edit button");
         pages.vintageShirt().editButton.click();
 
+        extentLogger.info("fill the sale and cost");
+
         extentLogger.info("click on sale price");
         pages.vintageShirt().salePrice.click();
         pages.vintageShirt().salePrice.clear();
-        pages.vintageShirt().salePrice.sendKeys("35");
+        pages.vintageShirt().salePrice.sendKeys();
 
         extentLogger.info("click on cost");
         pages.vintageShirt().costInput.click();
@@ -42,9 +45,6 @@ public class VintageShirtTest extends TestBase {
 
         extentLogger.info("click on save button");
         pages.vintageShirt().saveButton.click();
-
-        System.out.println(pages.vintageShirt().salePriceAfterSAve.getText());
-        System.out.println(pages.vintageShirt().costAfterSave.getText());
 
         extentLogger.info("verify sale price is 35");
         Assert.assertTrue(pages.vintageShirt().salePriceAfterSAve.getText().substring(2,4).equals("35"));

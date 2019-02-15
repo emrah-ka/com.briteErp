@@ -1,53 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec33de10-f2d4-410b-9032-847d320d9324" name="Default Changelist" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/IpadMini2Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/NewProductPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/NewVendorPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/PurchasableProductsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/VintageShirtPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/IpadMini2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/IpadMiniPrintTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/NewProductTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/NumberOfVendorsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/PurchasableProductTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/VendorCreateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/VintageShirtTest.java" afterDir="false" />
+    <list default="true" id="bcf86b25-b762-42ff-bc29-d1830cc4e266" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/PDFReports/TaxReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/PDFReports/TaxReport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/VendorsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/VendorsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/functional_tests/ErkinsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/ErkinsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Pages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Pages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/PDFReports/AgedPartnerBalance.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/PDFReports/AgedPartnerBalance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/PDFReports/JournalsAudit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/PDFReports/JournalsAudit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/PDFReports/TaxReport.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/PDFReports/TaxReport.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/configuration_accounting/DocumentsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/configuration_accounting/DocumentsPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/purchasesDocuments/Payments.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/purchasesDocuments/Payments.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/purchasesDocuments/VendorBills.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/purchasesDocuments/VendorBills.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/purchasesDocuments/VendorCreditNotes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/purchasesDocuments/VendorCreditNotes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/functional_tests/AgedPartnerBalanceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/functional_tests/AgedPartnerBalanceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/functional_tests/AndrewTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/functional_tests/AndrewTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/NewVendorPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/NewVendorPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/functional_tests/CamptoCampTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/CamptoCampTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/functional_tests/ErkinsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/CreateMeetingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/functional_tests/IpadMini2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/IpadMini2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/functional_tests/PurchasableProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/PurchasableProductTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/functional_tests/VendorCreateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/VendorCreateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/functional_tests/VendorsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/VendorsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/functional_tests/VintageShirtTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/VintageShirtTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/configurationPayments/PaymentAcquirers.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/tests/functional_tests/CamptoCampTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/functional_tests/CamptoCampTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/functional_tests/ErkinsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/functional_tests/ErkinsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/functional_tests/JournalsAuditTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/functional_tests/JournalsAuditTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/functional_tests/TaxReportTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/functional_tests/TaxReportTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/functional_tests/ErkinsTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/tests/functional_tests/VendorsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/functional_tests/VendorsTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/Pages.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/Pages.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/report.html" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/Payment/PaymentAquires.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/functional_tests/PaymentAquiresTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/configurationPayments/PaymentAcquirers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Pages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Pages.java" afterDir="false" />
->>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,161 +26,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-<<<<<<< HEAD
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/VintageShirtTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="48" column="48" selection-start-line="48" selection-start-column="48" selection-end-line="48" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-=======
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/BankAccountCreateTest_emrah.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-258">
-              <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
->>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
-            </state>
-          </provider>
-        </entry>
-      </file>
-<<<<<<< HEAD
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/VintageShirtPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-=======
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/PaymentAquiresTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="28" column="51" lean-forward="true" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Pages.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/Payment/PaymentAquires.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="27" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
->>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/IpadMini2Page.java">
-          <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="525">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-=======
-            <state relative-caret-position="833">
-              <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
->>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/PurchasableProductsPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="252">
-              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="18" selection-end-column="48" />
-=======
-            <state relative-caret-position="935">
-              <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
->>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/NewProductTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/NewProductPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="420">
-              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="26" selection-end-column="33" />
-=======
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
->>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Pages.java">
-          <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="5439">
-              <caret line="275" selection-start-line="275" selection-end-line="275" />
-=======
-            <state relative-caret-position="374">
-              <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
->>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -219,82 +35,25 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <dirStrings>
-      <dir>C:\Users\ASUSNB\com.briteErp\target</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/pages/CamptocampPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/configuration_accounting/ErkinsPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/VendorsPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/CamptoCampTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/VendorsTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/ErkinsPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/smoke_tests/TaxCreateTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/AndrewTests.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/DocumentsPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/AgedPartnerBalanceTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/JournalsAuditTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/TaxReportTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/PDFReports/AgedPartnerBalance.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/PDFReports/JournalsAudit.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/smoke_tests/CheckTitleTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/salesDocuments/Payments.java" />
         <option value="$PROJECT_DIR$/src/test/java/utilities/BrowserUtils.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/BankAccountCreateTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/TaxCreateTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/TaxCreateTest_emrah.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/configuration.properties" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/configuration_accounting/DocumentsPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/configuration_accounting/BankAccounts.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/BankAccountCreateTest_emrah.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/src/test/java/tests/smoke_tests/SmokeTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/PDFReports/TaxReport.java" />
-        <option value="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/ErkinsTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/FGFTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/NewVendorPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/VendorsPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/VendorsSortTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/PurchasableProdustsPAge.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/VendorCreateTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/VerifyFunctionsTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/NumberOfVendorsTes.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/NumberOfVendorsTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/PurchasableProductTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/PurchasableProductsPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/NewProductTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/IpadMini2Test.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/IpadMini2Page.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/IpadMiniPrintTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/NewProductPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/IpadMiniExportTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/utilities/Pages.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/VintageShirtPage.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/VendorsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/CamptoCampTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/ErkinsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/CreateMeetingTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/VintageShirtTest.java" />
-=======
-        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/PaymentAquiresTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pages/configurationPayments/PaymentAcquirers.java" />
-        <option value="$PROJECT_DIR$/src/test/java/utilities/Pages.java" />
->>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
+        <option value="$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/NewVendorPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/VendorCreateTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/IpadMini2Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/functional_tests/PurchasableProductTest.java" />
       </list>
-    </option>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -304,46 +63,22 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="CyberNine" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="CyberNine" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="CyberNine" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="CyberNine" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-<<<<<<< HEAD
-    <option name="x" value="-7" />
-    <option name="width" value="1933" />
-    <option name="height" value="1047" />
-=======
-    <option name="x" value="-1928" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1066" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1016" />
+    <option name="y" value="13" />
+    <option name="width" value="906" />
+    <option name="height" value="798" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
->>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -354,6 +89,11 @@
             <path>
               <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
               <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -384,27 +124,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
-=======
-              <item name="Payment" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="PDFReports" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
->>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
               <item name="puchasesMasterData" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -413,45 +132,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
-=======
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="purchasesDocuments" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="reportingManagemet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="salesDocuments" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="salesMasterData" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
->>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -472,54 +152,15 @@
               <item name="tests" type="462c0819:PsiDirectoryNode" />
               <item name="smoke_tests" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utilities" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
-=======
-            </path>
-            <path>
-              <item name="com.briteErp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.briteErp" type="462c0819:PsiDirectoryNode" />
-              <item name="test-output" type="462c0819:PsiDirectoryNode" />
->>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-<<<<<<< HEAD
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549896477293" />
-=======
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549776581035" />
->>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="pages" />
-    </key>
-<<<<<<< HEAD
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="tests.smoke_tests" />
-=======
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ASUSNB\com.briteErp" />
-      <recent name="C:\Users\ASUSNB\com.briteErp\src\test\java\pages\configuration_accounting" />
->>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
-    </key>
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550157889874" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -533,8 +174,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.VintageShirtTest.vintageShirtexportTest">
-    <configuration name="IpadMini2Test.ipadMini2Test" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.PurchasableProductTest.verifyPurchasableProducts">
+    <configuration name="NumberOfVendorsTest.numberOfVendorsTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.briteErp" />
       <extension name="coverage">
         <pattern>
@@ -543,44 +184,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.functional_tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.functional_tests.IpadMini2Test" />
-      <option name="METHOD_NAME" value="ipadMini2Test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IpadMiniPrintTest.printTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.briteErp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.functional_tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.functional_tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.functional_tests.IpadMiniPrintTest" />
-      <option name="METHOD_NAME" value="printTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NewProductTest.newProduct" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.briteErp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.functional_tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.functional_tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.functional_tests.NewProductTest" />
-      <option name="METHOD_NAME" value="newProduct" />
+      <option name="MAIN_CLASS_NAME" value="tests.functional_tests.NumberOfVendorsTest" />
+      <option name="METHOD_NAME" value="numberOfVendorsTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -606,7 +211,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VintageShirtTest.vintageShirtexportTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="VendorCreateTest.createVendor" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.briteErp" />
       <extension name="coverage">
         <pattern>
@@ -615,8 +220,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests.functional_tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.functional_tests.VintageShirtTest" />
-      <option name="METHOD_NAME" value="vintageShirtexportTest" />
+      <option name="MAIN_CLASS_NAME" value="tests.functional_tests.VendorCreateTest" />
+      <option name="METHOD_NAME" value="createVendor" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -624,20 +229,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="TestNG.PurchasableProductTest.verifyPurchasableProducts" />
-      <item itemvalue="TestNG.NewProductTest.newProduct" />
-      <item itemvalue="TestNG.IpadMini2Test.ipadMini2Test" />
-      <item itemvalue="TestNG.IpadMiniPrintTest.printTest" />
-      <item itemvalue="TestNG.VintageShirtTest.vintageShirtexportTest" />
-    </list>
+    <configuration name="VendorsTest.verifyVendors" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.briteErp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.functional_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.functional_tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.functional_tests.VendorsTest" />
+      <option name="METHOD_NAME" value="verifyVendors" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.VintageShirtTest.vintageShirtexportTest" />
-        <item itemvalue="TestNG.IpadMiniPrintTest.printTest" />
-        <item itemvalue="TestNG.IpadMini2Test.ipadMini2Test" />
-        <item itemvalue="TestNG.NewProductTest.newProduct" />
         <item itemvalue="TestNG.PurchasableProductTest.verifyPurchasableProducts" />
+        <item itemvalue="TestNG.VendorCreateTest.createVendor" />
+        <item itemvalue="TestNG.VendorsTest.verifyVendors" />
+        <item itemvalue="TestNG.NumberOfVendorsTest.numberOfVendorsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -646,91 +261,47 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ec33de10-f2d4-410b-9032-847d320d9324" name="Default Changelist" comment="" />
-      <created>1548805675636</created>
+      <changelist id="bcf86b25-b762-42ff-bc29-d1830cc4e266" name="Default Changelist" comment="" />
+      <created>1550090051247</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1548805675636</updated>
+      <updated>1550090051247</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="VintageShirtTest_vintageShirtexportTest - 2019.02.11 at 00h 53m 58s.xml">
-      <configuration name="VintageShirtTest.vintageShirtexportTest" configurationId="TestNG" />
+    <history-entry file="VendorsTest_verifyVendors - 2019.02.13 at 17h 46m 48s.xml">
+      <configuration name="VendorsTest.verifyVendors" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="VintageShirtTest_vintageShirtexportTest - 2019.02.11 at 00h 55m 04s.xml">
-      <configuration name="VintageShirtTest.vintageShirtexportTest" configurationId="TestNG" />
+    <history-entry file="NumberOfVendorsTest_numberOfVendorsTest - 2019.02.13 at 17h 49m 44s.xml">
+      <configuration name="NumberOfVendorsTest.numberOfVendorsTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="VintageShirtTest_vintageShirtexportTest - 2019.02.11 at 00h 56m 53s.xml">
-      <configuration name="VintageShirtTest.vintageShirtexportTest" configurationId="TestNG" />
+    <history-entry file="VendorsTest_verifyVendors - 2019.02.13 at 17h 52m 42s.xml">
+      <configuration name="VendorsTest.verifyVendors" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="VintageShirtTest_vintageShirtexportTest - 2019.02.11 at 01h 03m 44s.xml">
-      <configuration name="VintageShirtTest.vintageShirtexportTest" configurationId="TestNG" />
+    <history-entry file="VendorsTest_verifyVendors - 2019.02.13 at 17h 53m 47s.xml">
+      <configuration name="VendorsTest.verifyVendors" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="VintageShirtTest_vintageShirtexportTest - 2019.02.11 at 01h 04m 57s.xml">
-      <configuration name="VintageShirtTest.vintageShirtexportTest" configurationId="TestNG" />
+    <history-entry file="VendorsTest_verifyVendors - 2019.02.13 at 17h 54m 58s.xml">
+      <configuration name="VendorsTest.verifyVendors" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="VintageShirtTest_vintageShirtexportTest - 2019.02.11 at 01h 08m 12s.xml">
-      <configuration name="VintageShirtTest.vintageShirtexportTest" configurationId="TestNG" />
+    <history-entry file="VendorCreateTest_createVendor - 2019.02.13 at 18h 46m 53s.xml">
+      <configuration name="VendorCreateTest.createVendor" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="VintageShirtTest_vintageShirtexportTest - 2019.02.11 at 01h 10m 32s.xml">
-      <configuration name="VintageShirtTest.vintageShirtexportTest" configurationId="TestNG" />
+    <history-entry file="VendorCreateTest_createVendor - 2019.02.13 at 18h 52m 40s.xml">
+      <configuration name="VendorCreateTest.createVendor" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="VintageShirtTest_vintageShirtexportTest - 2019.02.11 at 01h 11m 40s.xml">
-      <configuration name="VintageShirtTest.vintageShirtexportTest" configurationId="TestNG" />
+    <history-entry file="VendorCreateTest_createVendor - 2019.02.13 at 18h 54m 20s.xml">
+      <configuration name="VendorCreateTest.createVendor" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="VintageShirtTest_vintageShirtexportTest - 2019.02.11 at 01h 12m 38s.xml">
-      <configuration name="VintageShirtTest.vintageShirtexportTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="VintageShirtTest_vintageShirtexportTest - 2019.02.11 at 01h 14m 43s.xml">
-      <configuration name="VintageShirtTest.vintageShirtexportTest" configurationId="TestNG" />
+    <history-entry file="PurchasableProductTest_verifyPurchasableProducts - 2019.02.14 at 10h 25m 27s.xml">
+      <configuration name="PurchasableProductTest.verifyPurchasableProducts" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-<<<<<<< HEAD
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21162046" />
-=======
-    <frame x="-1928" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.119936034" />
->>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32827735" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25460455" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.18418202" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-<<<<<<< HEAD
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.049217" />
-=======
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.23794213" />
->>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.033557046" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.3292683" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17397882" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16044776" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -739,624 +310,162 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2173913" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.09317443" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32850242" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.068255685" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.032502707" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.3292683" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32995737" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout-to-restore>
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list />
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list />
-          </value>
-        </entry>
-      </map>
-    </option>
+    </layout>
   </component>
   <component name="editorHistoryManager">
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/Vendors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/PurchasableProducts.java">
-=======
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/CamptocampPage.java">
->>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/reportingManagemet/Invoices.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/configurationManagements/PaymentTerms.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/configurationPayments/PaymentAcquirers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/AndrewTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/salesDocuments/PaymentsSD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/purchasesDocuments/Payments.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/ConfigurationReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com.briteErp.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/TaxCreateTest_emrah.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-55">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/configuration_accounting/FiscalPositions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configuration.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/configuration_accounting/CustomerCreditNotesPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/configuration_accounting/DocumentsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-187">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/configuration_accounting/TaxesPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-289">
-          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/configuration_accounting/BankAccounts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/ErkinsPage.java">
-=======
-    <entry file="file://$PROJECT_DIR$/test-output/ScreenshotsBankAccountsTitleTest20190202070027.png" />
-    <entry file="file://$PROJECT_DIR$/test-output/ScreenshotstaxesTitleTest20190204122525.png" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/salesDocuments/CustomerInvoices.java">
->>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/smoke_tests/CheckTitleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="987">
-          <caret line="47" column="85" selection-start-line="47" selection-start-column="85" selection-end-line="47" selection-end-column="85" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/ApplicationConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/CamptocampPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/CamptoCampTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/BankAccountCreateTest_emrah.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1491">
-          <caret line="78" column="29" lean-forward="true" selection-start-line="78" selection-start-column="29" selection-end-line="78" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/VendorsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59-sources.jar!/org/openqa/selenium/support/ui/Select.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-126">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test-output/report.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="240" column="7" selection-start-line="240" selection-start-column="7" selection-end-line="240" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1470">
-          <caret line="79" column="16" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/PDFReports/TaxReport.java">
-=======
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/AndrewTests.java">
->>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1995">
-          <caret line="100" column="37" selection-start-line="100" selection-start-column="36" selection-end-line="100" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/smoke_tests/ZekiSmokeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/ErkinsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/PurchasableProdustsPAge.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/VendorCreateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/PurchasableProductTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="19" column="23" selection-start-line="18" selection-start-column="8" selection-end-line="24" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/NumberOfVendorsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="21" column="36" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="21" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/VendorsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="677">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="609">
+          <caret line="70" column="26" lean-forward="true" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/utilities/BrowserUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="120" column="76" lean-forward="true" selection-start-line="120" selection-start-column="76" selection-end-line="120" selection-end-column="76" />
+        <state relative-caret-position="758">
+          <caret line="290" column="1" lean-forward="true" selection-start-line="290" selection-start-column="1" selection-end-line="290" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/NewVendorPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="518">
+          <caret line="79" column="16" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/IpadMini2Test.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/VendorsPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/IpadMiniPrintTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
->>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/IpadMini2Page.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/configuration_accounting/BankAccounts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
->>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="252">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/PurchasableProductsPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="18" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="273">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/NewProductTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/CustomerCreditNoteTest.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="126">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-=======
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
->>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="84">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/NewProductPage.java">
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/smoke_tests/DDDD.java" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="420">
-          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="26" selection-end-column="33" />
-=======
-        <state relative-caret-position="374">
-          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
->>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="336">
+          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Pages.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/CamptoCampTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5439">
-          <caret line="275" selection-start-line="275" selection-end-line="275" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-=======
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
->>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
+        <state relative-caret-position="210">
+          <caret line="14" column="49" lean-forward="true" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/VintageShirtPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/NumberOfVendorsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="483">
-          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="903">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/VendorsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/CreateMeetingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/VintageShirtTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="48" column="48" selection-start-line="48" selection-start-column="48" selection-end-line="48" selection-end-column="48" />
-=======
-        <state relative-caret-position="-258">
-          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        <state relative-caret-position="588">
+          <caret line="31" column="8" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Pages.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/VendorCreateTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="41" lean-forward="true" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        <state relative-caret-position="189">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/Payment/PaymentAquires.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/NewVendorPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="231">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/PaymentAquiresTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/puchasesMasterData/IpadMini2Page.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="28" column="51" lean-forward="true" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
->>>>>>> 6bef9594aef6976a09a24ddcb28f302a922dd0db
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="84">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>com.briteErp</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: com.aventstack:extentreports:4.0.6</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/IpadMini2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="30" column="64" selection-start-line="30" selection-start-column="64" selection-end-line="30" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/IpadMiniPrintTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-112">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/PurchasableProductTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/functional_tests/NewProductTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-294">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

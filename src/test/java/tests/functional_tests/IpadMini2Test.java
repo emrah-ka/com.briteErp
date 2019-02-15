@@ -10,7 +10,7 @@ public class IpadMini2Test extends TestBase {
 
     @Test
     public void ipadMini2Test(){
-        extentLogger = report.createTest("new product  test");
+        extentLogger = report.createTest("new product test(Ipadmini2");
 
         extentLogger.info("entering login information");
         pages.login().loginAsUser();
@@ -28,7 +28,7 @@ public class IpadMini2Test extends TestBase {
         pages.newProduct().ipadMini2Button.click();
         BrowserUtils.wait(5);
 
-        extentLogger.info("verify that selected product is ipadmini 2");
+        extentLogger.info("verify that selected product is iPadMini 2");
         String title=Driver.getDriver().getTitle();
         Assert.assertTrue(title.contains("iPad Mini2"));
 

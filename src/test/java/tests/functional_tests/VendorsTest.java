@@ -23,8 +23,15 @@ public class VendorsTest extends TestBase {
         pages.vendors().vendorsButton.click();
         BrowserUtils.wait(3);
 
-        extentLogger.info("click on camptocamp");
-        pages.vendors().camptocamp.click();
+
+
+        extentLogger.info(" verify vendors are displayed");
+        for (int i = 0; i < pages.vendors().allVendors.size()/2 ; i++) {
+
+            Assert.assertTrue(pages.vendors().allVendors.get(i).isDisplayed());
+
+        }
+
 
 
 

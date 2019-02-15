@@ -3,11 +3,10 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 import utilities.BrowserUtils;
 import utilities.TestBase;
-public class ErkinsTest extends TestBase {
+public class CreateMeetingTest extends TestBase {
     @Test
-    public void verifyErkins(){
-        extentLogger = report.createTest("Vendors functionality test");
-        extentLogger.info("Verify the Erkins Functionality");
+    public void createMeeting(){
+        extentLogger = report.createTest("Creating meeting test");
 
         extentLogger.info("click on vendors");
         pages.vendors().clickOnVendors();
@@ -39,7 +38,7 @@ public class ErkinsTest extends TestBase {
 
         BrowserUtils.wait(4);
         extentLogger.info("verify subject is sprint planning");
-        System.out.println(pages.erkins().subject.getText());
+
         Assert.assertTrue(pages.erkins().subject.getText().equals("sprint planning"));
     }
 }

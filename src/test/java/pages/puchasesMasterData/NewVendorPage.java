@@ -19,7 +19,7 @@ public class NewVendorPage {
     @FindBy(css = "input.o_field_char.o_field_widget.o_input.o_required_modifier")
     public WebElement companyNameInput;
 
-    @FindBy(id = "o_field_input_754")
+    @FindBy(xpath = "//input[@name='city']")
     public WebElement cityInput;
 
     @FindBy(css = "[name='street']")
